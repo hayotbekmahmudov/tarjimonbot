@@ -1,0 +1,1 @@
+# Pythonda yozilgan tarjimon bot
